@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pharmacology and Toxicology"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "legacy_uid": "1a743f79-5bc8-e409-3a42-c627331f3214",
+  "instructors": {
+    "content": [
+      "769998c8-1926-6fda-1106-d821ed61147a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9061e9c9-8a9b-bfc8-1fb8-9b9719bbc784",
+    "website": "sts-062j-drugs-politics-and-culture-spring-2006"
+  },
+  "course_title": "Drugs, Politics, and Culture",
+  "course_description": "This class examines the relationship between a number of mind-altering substances and cultural processes. We look at the relationship between drugs and such phenomena as poverty, religion, technology, inter-generational conflict, colonialism, and global capitalism. We read about the physiological and psychological effects of these substances -- ranging from alcohol to LSD, cocaine and ecstasy -- and ask why different societies prohibit and sanction different drugs. We examine the use of mind-altering substances in a number of \"traditional\" societies, and follow the development of a global trade in such substances as sugar, coffee, tea, nicotine, cocaine, and marijuana concurrent with the evolution of global capitalism. We look at the use of LSD as a mind-control substance by the CIA and as a mind-altering substance in the 1960's counter-culture, and we look at the rise of Prozac\u00ae and Viagra\u00ae as popular, if controversial, pharmaceutical products in recent years. Finally, we evaluate America's current drug laws.\n",
+  "department_numbers": [
+    "STS",
+    "21A"
+  ],
+  "extra_course_numbers": "21A.344J",
+  "primary_course_number": "STS.062J",
+  "course_image_thumbnail": {
+    "content": "3bbe0758-aff6-32b6-fe63-ca714180a064",
+    "website": "sts-062j-drugs-politics-and-culture-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "907e987f-8722-4a6e-8258-d3c28e625f5f",
+  "site_short_id": "sts.062j-spring-2006",
+  "site_url_path": "courses/sts-062j-drugs-politics-and-culture-spring-2006",
+  "title": "Course Metadata"
+}
