@@ -5,6 +5,8 @@ description: 'This resource is the final papaer submited by the students exlpain
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/6463148021b18dad0f5901d71b1af4f8_meth.pdf
 file_size: 151399
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

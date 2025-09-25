@@ -2,6 +2,8 @@
 content_type: page
 description: The table below provides information about the course's lecture (L) and
   quiz (Q) sessions.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

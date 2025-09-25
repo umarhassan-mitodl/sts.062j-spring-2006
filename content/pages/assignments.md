@@ -2,6 +2,8 @@
 content_type: page
 description: This assignment section provides information about first paper topics,
   exemplary student papers and a list for second paper submissions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

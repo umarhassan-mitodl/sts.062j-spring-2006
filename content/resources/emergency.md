@@ -5,6 +5,8 @@ description: 'This resource is the final Paper submited by the students explaini
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/e51ac1929e188e002331fad00e336e1a_emergency.pdf
 file_size: 58209
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

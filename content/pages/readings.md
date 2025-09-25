@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the readings for the books, recommended readings
   and readings by session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ Inciardi, James, and Karen McElrath, eds. _The American Drug Scene: An Anthology
 
 Goode, Erich. _Drugs in American Society_. 6th ed. New York, NY: McGraw-Hill, 2004. ISBN: 9780072874983.
 
-{{% resource_link "1c9bec18-796a-4aba-b7c1-353e5c84ebd2" "Go Ask Alice" %}}.
+[Go Ask Alice](http://www.sparknotes.com/lit/goaskalice/).
 
 {{< anchor "Readings" >}}{{< /anchor >}}Readings by Session
 -----------------------------------------------------------
@@ -256,7 +258,7 @@ The War on Drugs
 {{< tdopen >}}
 
 
-{{% resource_link "01c73b13-8611-4304-8098-a6d55bab2b7b" "Office of National Drug Control Policy" %}}
+[Office of National Drug Control Policy](http://www.whitehousedrugpolicy.gov/index.html)
 
 Swiss Federal Office of Public Health. _Swiss Drugs Policy_ (undated). (skim.)
 
