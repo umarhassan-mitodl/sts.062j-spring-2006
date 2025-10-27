@@ -5,8 +5,6 @@ description: This resource is the final paper submited by the students explainin
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/09cf7e7b2e6730e46128ef53d31b356c_drugs.pdf
 file_size: 136772
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

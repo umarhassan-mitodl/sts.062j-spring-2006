@@ -5,8 +5,6 @@ description: This resource is the final paper submited by the students explainin
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/2290e2f671dd5f615e7f0d2cf8a687c9_baseball.pdf
 file_size: 40798
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

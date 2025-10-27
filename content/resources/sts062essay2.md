@@ -4,8 +4,6 @@ description: ''
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/eef477072908784d7efeb8819889ef8d_STS062Essay2.pdf
 file_size: 50632
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource is the final paper submited by the students explainin
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/f91d3eb868416763ec806f0fe73bc4d4_truth_dare.pdf
 file_size: 126523
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
